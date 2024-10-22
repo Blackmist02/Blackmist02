@@ -68,13 +68,6 @@
 <img src="https://raw.githubusercontent.com/Blackmist02/Blackmist02/output/snake.svg" alt="Snake animation" />
 
 
-###
-
-<br clear="both">
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/artist/3fMbdgg4jU18AjLCKBhRSm)
-
-###
 
 ###
 
